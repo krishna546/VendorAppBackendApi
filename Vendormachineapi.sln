@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vendormachineapi", "Vendormachineapi\Vendormachineapi.csproj", "{7DF36E0E-A1B0-4F75-B26F-E92A4EA449A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DF36E0E-A1B0-4F75-B26F-E92A4EA449A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF36E0E-A1B0-4F75-B26F-E92A4EA449A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF36E0E-A1B0-4F75-B26F-E92A4EA449A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF36E0E-A1B0-4F75-B26F-E92A4EA449A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50269F3B-89E5-4027-A994-89CB200BE885}
+	EndGlobalSection
+EndGlobal
